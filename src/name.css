@@ -1,0 +1,17 @@
+.Name {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  display: flex;
+  margin-left: 22px;
+  border-radius: 10px;
+  height: 25px;
+  width: 250px;
+}
+
+label {
+  font-size: 20px;
+  color: white;
+}

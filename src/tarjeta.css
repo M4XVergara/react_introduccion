@@ -1,0 +1,45 @@
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 160px;
+}
+
+.card-right {
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  width: 300px;
+  background-color: rgb(96, 123, 234);
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px 3px grey;
+}
+
+.card-left {
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  width: 300px;
+  background-color: rgb(49, 75, 66);
+  border-radius: 10px;
+  align-items: center;
+  text-align: center;
+  box-shadow: 5px 5px 10px 3px grey;
+}
+
+h2 {
+  background-color: brown;
+  border-radius: 10px;
+  width: 300px;
+  color: white;
+}
+
+.img {
+  width: 150px;
+  height: 150px;
+}
+
+p {
+  color: aliceblue;
+  font-size: 20px;
+}
