@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/primer_proyecto_react/static/css/main.ec177389.css",
+    "main.js": "/primer_proyecto_react/static/js/main.b5d838c9.js",
+    "static/media/logo.svg": "/primer_proyecto_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/primer_proyecto_react/index.html",
+    "main.ec177389.css.map": "/primer_proyecto_react/static/css/main.ec177389.css.map",
+    "main.b5d838c9.js.map": "/primer_proyecto_react/static/js/main.b5d838c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec177389.css",
+    "static/js/main.b5d838c9.js"
+  ]
+}
